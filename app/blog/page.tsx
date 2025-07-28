@@ -16,7 +16,7 @@ const blogPosts = [
     date: "2024-01-20",
     readTime: "12 dk okuma",
     category: "AI & Teknoloji",
-    github: "https://github.com/cumakaradas/blog/blob/main/yapay-zeka-okuryazarligi.md",
+    github: "https://github.com/CumaKaradash/Yapay-Zeka-Okuryazarligi",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const blogPosts = [
     date: "2024-01-15",
     readTime: "8 dk okuma",
     category: "Dijital Pazarlama",
-    github: "https://github.com/cumakaradas/blog/blob/main/meta-ads-pixel-kontrol-noktalari.md",
+    github: "https://github.com/CumaKaradash/MetaPixelAyarlari",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const blogPosts = [
     date: "2024-01-10",
     readTime: "15 dk okuma",
     category: "AI & Psikoloji",
-    github: "https://github.com/cumakaradas/blog/blob/main/ai-psikoterapi-arastirma-trendleri.md",
+    github: "https://github.com/CumaKaradash/Yapay-Zeka-ve-Psikoterapi",
   },
   {
     id: 4,
@@ -46,7 +46,7 @@ const blogPosts = [
     date: "2024-01-05",
     readTime: "10 dk okuma",
     category: "Dijital Pazarlama",
-    github: "https://github.com/cumakaradas/blog/blob/main/meta-pixel-rehberi.md",
+    github: "https://github.com/CumaKaradash/Meta-Pixel",
   },
   {
     id: 5,
@@ -56,7 +56,7 @@ const blogPosts = [
     date: "2023-12-28",
     readTime: "18 dk okuma",
     category: "Siber Güvenlik",
-    github: "https://github.com/cumakaradas/blog/blob/main/ss7-signaling-system.md",
+    github: "https://github.com/CumaKaradash/SS7",
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ const blogPosts = [
     date: "2023-12-20",
     readTime: "14 dk okuma",
     category: "Siber Güvenlik",
-    github: "https://github.com/cumakaradas/blog/blob/main/internet-filtreleme-dpi.md",
+    github: "https://github.com/CumaKaradash/DPI",
   },
   {
     id: 7,
@@ -76,7 +76,7 @@ const blogPosts = [
     date: "2023-12-15",
     readTime: "9 dk okuma",
     category: "Verimlilik",
-    github: "https://github.com/cumakaradas/blog/blob/main/chrome-uzantilari-verimlilik.md",
+    github: "https://github.com/CumaKaradash/chrome-verimlilik-uzantilari",
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ const blogPosts = [
     date: "2023-12-10",
     readTime: "16 dk okuma",
     category: "Siber Güvenlik",
-    github: "https://github.com/cumakaradas/blog/blob/main/zararli-yazilimlar.md",
+    github: "https://github.com/CumaKaradash/zararli-yazilimlar",
   },
   {
     id: 9,
@@ -96,7 +96,7 @@ const blogPosts = [
     date: "2023-12-05",
     readTime: "7 dk okuma",
     category: "Web Teknolojisi",
-    github: "https://github.com/cumakaradas/blog/blob/main/rss-beslemeleri.md",
+    github: "https://github.com/CumaKaradash/awesome-rss-feeds",
   },
 ]
 
