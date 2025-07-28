@@ -16,7 +16,7 @@ const projects = [
     description: "Zaman bazlı iş takibi, Pomodoro tekniği ve detaylı analitikler içeren görev yönetim uygulaması.",
     category: "Web",
     tech: ["Next.js", "TypeScript", "Zustand", "Tailwind CSS", "PostgreSQL", "Auth.js"],
-    github: "https://github.com/cumakaradas/TaskForge",
+    github: "https://github.com/cumakaradash/TaskForge",
     demo: "https://taskforge-demo.vercel.app",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description: "Kripto para piyasası verilerini izleme ve analiz etme dashboard'u. Gerçek zamanlı fiyat takibi.",
     category: "Finans",
     tech: ["React", "TypeScript", "Recharts", "CoinGecko API", "Zustand"],
-    github: "https://github.com/cumakaradas/CryptoDash",
+    github: "https://github.com/cumakaradash/CryptoDash",
     demo: "https://cryptodash-demo.vercel.app",
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description: "Geliştirici günlükleri ve teknik blog yazıları için özel tasarlanmış yayın platformu.",
     category: "Web",
     tech: ["Astro", "TypeScript", "Markdown", "Supabase"],
-    github: "https://github.com/cumakaradas/DevLog",
+    github: "https://github.com/cumakaradash/DevLog",
     demo: "https://devlog-demo.vercel.app",
   },
   {
@@ -43,7 +43,7 @@ const projects = [
     description: "Şifrelenmiş parola ve gizli veri saklama uygulaması. Web Crypto API ile güvenli depolama.",
     category: "Güvenlik",
     tech: ["Next.js", "TypeScript", "Web Crypto API", "PostgreSQL", "Prisma", "JWT"],
-    github: "https://github.com/cumakaradas/VaultSafe",
+    github: "https://github.com/cumakaradash/VaultSafe",
     demo: null,
   },
   {
@@ -52,7 +52,7 @@ const projects = [
     description: "Gerçek zamanlı kod paylaşım aracı. Snippet paylaşımı ve canlı kod gösterimi.",
     category: "Web",
     tech: ["React", "TypeScript", "Monaco Editor", "Socket.IO", "Express.js", "MongoDB"],
-    github: "https://github.com/cumakaradas/CodeBin",
+    github: "https://github.com/cumakaradash/CodeBin",
     demo: "https://codebin-demo.vercel.app",
   },
   {
@@ -61,7 +61,7 @@ const projects = [
     description: "Kişisel finans takip aracı. Gelir, gider analizi ve tasarruf planlaması.",
     category: "Finans",
     tech: ["React", "TypeScript", "Chart.js", "Firebase", "Tailwind CSS"],
-    github: "https://github.com/cumakaradas/BudgetFlow",
+    github: "https://github.com/cumakaradash/BudgetFlow",
     demo: "https://budgetflow-demo.vercel.app",
   },
   {
@@ -70,7 +70,7 @@ const projects = [
     description: "Görsel düşünce diyagramları ve zihin haritaları oluşturma aracı. Offline desteği.",
     category: "Web",
     tech: ["React", "TypeScript", "Konva.js", "Zustand", "IndexedDB"],
-    github: "https://github.com/cumakaradas/MindMapMe",
+    github: "https://github.com/cumakaradash/MindMapMe",
     demo: "https://mindmapme-demo.vercel.app",
   },
   {
@@ -79,7 +79,7 @@ const projects = [
     description: "Günlük alışkanlık takibi ve motivasyon uygulaması. İlerleme analitikleri.",
     category: "Web",
     tech: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Chakra UI", "Clerk"],
-    github: "https://github.com/cumakaradas/HabitForge",
+    github: "https://github.com/cumakaradash/HabitForge",
     demo: "https://habitforge-demo.vercel.app",
   },
   {
@@ -88,7 +88,7 @@ const projects = [
     description: "Uçtan uca şifreli, güvenli mesajlaşma uygulaması. Local-first yaklaşım.",
     category: "Güvenlik",
     tech: ["React", "TypeScript", "WebRTC", "PeerJS", "Web Crypto API", "Zustand"],
-    github: "https://github.com/cumakaradas/SecureChat",
+    github: "https://github.com/cumakaradash/SecureChat",
     demo: null,
   },
   {
@@ -97,7 +97,7 @@ const projects = [
     description: "GitHub aktivite analiz aracı. Kullanıcı commit, star ve issue verilerini görselleştirme.",
     category: "Veri",
     tech: ["Next.js", "TypeScript", "GitHub GraphQL API", "Chart.js", "Tailwind CSS"],
-    github: "https://github.com/cumakaradas/GitInsight",
+    github: "https://github.com/cumakaradash/GitInsight",
     demo: "https://gitinsight-demo.vercel.app",
   },
   {
@@ -106,7 +106,7 @@ const projects = [
     description: "Markdown'dan otomatik özgeçmiş oluşturucu. PDF export ve özelleştirilebilir şablonlar.",
     category: "Web",
     tech: ["React", "TypeScript", "jsPDF", "Tailwind CSS", "Zod", "Formik"],
-    github: "https://github.com/cumakaradas/ResumeGen",
+    github: "https://github.com/cumakaradash/ResumeGen",
     demo: "https://resumegen-demo.vercel.app",
   },
   {
@@ -115,7 +115,7 @@ const projects = [
     description: "Web sitelerini izleme aracı. Uptime/downtime logları ve bildirim sistemi.",
     category: "Web",
     tech: ["Node.js", "TypeScript", "PostgreSQL", "Express.js", "Telegram API"],
-    github: "https://github.com/cumakaradas/SiteUptime",
+    github: "https://github.com/cumakaradash/SiteUptime",
     demo: null,
   },
   {
@@ -124,7 +124,7 @@ const projects = [
     description: "ChatGPT API destekli öğrenme asistanı. Kişiselleştirilmiş eğitim modülleri.",
     category: "AI",
     tech: ["React", "TypeScript", "OpenAI API", "Zustand", "Tailwind CSS"],
-    github: "https://github.com/cumakaradas/AI-Tutor",
+    github: "https://github.com/cumakaradash/AI-Tutor",
     demo: "https://ai-tutor-demo.vercel.app",
   },
   {
@@ -133,7 +133,7 @@ const projects = [
     description: "No-code kişisel site üreticisi. Sürükle-bırak ile portföy tasarlama.",
     category: "Web",
     tech: ["React", "TypeScript", "DnD Kit", "Framer Motion", "Firebase"],
-    github: "https://github.com/cumakaradas/Portfolio-Builder",
+    github: "https://github.com/cumakaradash/Portfolio-Builder",
     demo: "https://portfolio-builder-demo.vercel.app",
   },
   {
@@ -142,7 +142,7 @@ const projects = [
     description: "Apache/Nginx log dosyalarını analiz eden web uygulaması. Büyük veri desteği.",
     category: "Veri",
     tech: ["React", "TypeScript", "Papaparse", "Tailwind CSS", "Web Workers"],
-    github: "https://github.com/cumakaradas/LogAnalyzer",
+    github: "https://github.com/cumakaradash/LogAnalyzer",
     demo: "https://loganalyzer-demo.vercel.app",
   },
   {
@@ -151,7 +151,7 @@ const projects = [
     description: "Dinamik quiz oluşturma platformu. Admin panel ve kullanıcı puanlama sistemi.",
     category: "Web",
     tech: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "React Hook Form", "Clerk"],
-    github: "https://github.com/cumakaradas/QuizForge",
+    github: "https://github.com/cumakaradash/QuizForge",
     demo: "https://quizforge-demo.vercel.app",
   },
   {
@@ -160,7 +160,7 @@ const projects = [
     description: "RSS üzerinden içerik toplayıcı. Belirli bloglardan otomatik içerik toplama.",
     category: "Veri",
     tech: ["Express.js", "TypeScript", "RSS Parser", "MongoDB", "Next.js"],
-    github: "https://github.com/cumakaradas/BlogIndexer",
+    github: "https://github.com/cumakaradash/BlogIndexer",
     demo: null,
   },
   {
@@ -169,7 +169,7 @@ const projects = [
     description: "Kişisel bağlantı yöneticisi. Bookmark klasörleme, notlar ve etiketleme sistemi.",
     category: "Web",
     tech: ["Next.js", "TypeScript", "PlanetScale", "Prisma", "Tailwind UI", "Auth.js"],
-    github: "https://github.com/cumakaradas/LinkLocker",
+    github: "https://github.com/cumakaradash/LinkLocker",
     demo: "https://linklocker-demo.vercel.app",
   },
   {
@@ -178,7 +178,7 @@ const projects = [
     description: "AI destekli kod inceleme yardımcısı. Kod snippet'lerini değerlendirme ve öneriler.",
     category: "AI",
     tech: ["React", "TypeScript", "GPT API", "Monaco Editor", "Zustand"],
-    github: "https://github.com/cumakaradas/CodeReviewPal",
+    github: "https://github.com/cumakaradash/CodeReviewPal",
     demo: "https://codereviewpal-demo.vercel.app",
   },
   {
@@ -187,7 +187,7 @@ const projects = [
     description: "Web tabanlı terminal simülasyonu. Özel komut sistemi ve JSON çıktıları.",
     category: "CLI",
     tech: ["React", "TypeScript", "XTerm.js", "Zustand"],
-    github: "https://github.com/cumakaradas/TerminalMe",
+    github: "https://github.com/cumakaradash/TerminalMe",
     demo: "https://terminalme-demo.vercel.app",
   },
 ]
