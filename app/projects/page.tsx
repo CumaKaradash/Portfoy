@@ -205,7 +205,7 @@ const projects = [
     description: "Gemini API kullanarak Gmail e-postalarına otomatik cevaplar oluşturun.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "Gemini API", "JavaScript"],
-    github: null,
+    github: "https://github.com/cumakaradash/AI-Reply-Assistant",
     demo: null,
   },
   {
@@ -214,7 +214,7 @@ const projects = [
     description: "Font bulucu, Dark Mode, Teknoloji ve Performans analizi aracı.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "JavaScript", "Performance API"],
-    github: null,
+    github: "https://github.com/cumakaradash/Web-Master-Tools",
     demo: null,
   },
   {
@@ -223,7 +223,7 @@ const projects = [
     description: "E-ticaret sitelerinden ürün bilgilerini kazıyan ve CSV olarak indiren hafif bir araç.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "DOM Manipulation", "JavaScript"],
-    github: null,
+    github: "https://github.com/cumakaradash/Data-Scraper",
     demo: null,
   },
   {
@@ -232,7 +232,7 @@ const projects = [
     description: "Dikkat dağıtıcı unsurları gizleyerek odaklanmanızı sağlar.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "CSS", "JavaScript"],
-    github: null,
+    github: "https://github.com/cumakaradash/Focus-Mode",
     demo: null,
   },
   {
@@ -241,7 +241,7 @@ const projects = [
     description: "Estetik ve minimalist bir New Tab eklentisi.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "React", "Vite", "Tailwind CSS"],
-    github: null,
+    github: "https://github.com/cumakaradash/Frosted-Glass-New-Tab",
     demo: null,
   },
   {
@@ -250,7 +250,7 @@ const projects = [
     description: "Web sayfalarından hızlıca notlar alın ve saklayın.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "LocalStorage", "JavaScript"],
-    github: null,
+    github: "https://github.com/cumakaradash/Quick-Note-Save",
     demo: null,
   },
   {
@@ -259,7 +259,7 @@ const projects = [
     description: "Açık sekmeleri yönetin ve temizleyin.",
     category: "Uzantılar",
     tech: ["Chrome Extension", "Tabs API", "JavaScript"],
-    github: null,
+    github: "https://github.com/cumakaradash/Tab-Manager",
     demo: null,
   },
 ]
