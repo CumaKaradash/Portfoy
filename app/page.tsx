@@ -11,7 +11,9 @@ export default function Home() {
   const [showButton, setShowButton] = useState(false)
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-6">
+    // Değişiklik: min-h-screen yerine h-[calc(100vh-5rem)] kullanıldı.
+    // Layout'taki pt-20 (5rem) payı düşüldü ve overflow-hidden eklendi.
+    <div className="h-[calc(100vh-5rem)] flex items-center justify-center px-6 overflow-hidden">
       <div className="max-w-4xl mx-auto text-center space-y-12">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
