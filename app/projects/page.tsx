@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Github, ExternalLink } from "lucide-react"
 
-const categories = ["Tümü", "Web", "Freelance", "CLI", "Veri", "Finans"]
+const categories = ["Tümü", "Web", "Freelance", "CLI", "Veri", "Finans", "Uzantılar"]
 
 const projects = [
   {
@@ -198,6 +198,69 @@ const projects = [
     tech: ["Next.js", "OpenAI API", "Tailwind CSS", "Vercel OG"],
     github: "https://github.com/cumakaradash/GitFame",
     demo: "https://git-fame.vercel.app/",
+  },
+  {
+    id: 23,
+    name: "AI Email Replier",
+    description: "Gemini API kullanarak Gmail e-postalarına otomatik cevaplar oluşturun.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "Gemini API", "JavaScript"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 24,
+    name: "Web Master Tools",
+    description: "Font bulucu, Dark Mode, Teknoloji ve Performans analizi aracı.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "JavaScript", "Performance API"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 25,
+    name: "Data Scraper Lite",
+    description: "E-ticaret sitelerinden ürün bilgilerini kazıyan ve CSV olarak indiren hafif bir araç.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "DOM Manipulation", "JavaScript"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 26,
+    name: "Focus Mode",
+    description: "Dikkat dağıtıcı unsurları gizleyerek odaklanmanızı sağlar.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "CSS", "JavaScript"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 27,
+    name: "Frosted Focus",
+    description: "Estetik ve minimalist bir New Tab eklentisi.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "React", "Vite", "Tailwind CSS"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 28,
+    name: "Quick Note & Save",
+    description: "Web sayfalarından hızlıca notlar alın ve saklayın.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "LocalStorage", "JavaScript"],
+    github: null,
+    demo: null,
+  },
+  {
+    id: 29,
+    name: "Tab Manager",
+    description: "Açık sekmeleri yönetin ve temizleyin.",
+    category: "Uzantılar",
+    tech: ["Chrome Extension", "Tabs API", "JavaScript"],
+    github: null,
+    demo: null,
   },
 ]
 
